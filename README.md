@@ -1,6 +1,6 @@
 # Classificador de nível do herói
 
-Projeto de introdução ao desenvovlimento de jogos pela DIO em parceria com Santander.
+Projeto de introdução ao desenvolvimento de jogos pela DIO em parceria com Santander.
 
 ## Requisitos
 
